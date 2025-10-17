@@ -1,0 +1,13 @@
+{
+    "return_stat": {
+        "count": 6493500,
+        "mean": 30.14169103084121,
+        "var": 386089880982.6072
+    },
+    "run_id": "32ww50gg",
+    "skill_ratings": {
+        "1v1": 1120.935302734375
+    },
+    "total_iterations": 58283,
+    "total_timesteps": 8050125600
+}
